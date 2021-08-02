@@ -1,6 +1,7 @@
 - 👋 Hi, I’m burak
 - https://bur4k.live
-
+- https://1226.tech
+- 
 
 <!---
 bur4kcoders/bur4kcoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
